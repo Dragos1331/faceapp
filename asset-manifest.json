@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/faceapp/static/css/main.e05d7b7c.css",
+    "main.js": "/faceapp/static/js/main.fad01e60.js",
+    "static/js/787.3bfbc3dd.chunk.js": "/faceapp/static/js/787.3bfbc3dd.chunk.js",
+    "static/media/logo.png": "/faceapp/static/media/logo.f866ed1097918353c3ea.png",
+    "index.html": "/faceapp/index.html",
+    "main.e05d7b7c.css.map": "/faceapp/static/css/main.e05d7b7c.css.map",
+    "main.fad01e60.js.map": "/faceapp/static/js/main.fad01e60.js.map",
+    "787.3bfbc3dd.chunk.js.map": "/faceapp/static/js/787.3bfbc3dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e05d7b7c.css",
+    "static/js/main.fad01e60.js"
+  ]
+}
